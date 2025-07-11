@@ -24,5 +24,17 @@ This project analyzes job listings to uncover trends in hiring, top skills, and 
 -Seaborn
 -Plotly
 
+## Plots
+### Experience Level Distribution
+![Alt Text](images/Experience Level Distribution.png)
+### Job Listings Over Time
+![Alt Text](images/Job Listings Over Time.png)
+### Most Common Job Titles
+![Alt Text](images/Most common job titles.png)
+### Top Hiring Companies
+![Alt Text](images/Top hiring Companies.png)
+### Top In-Demand Skills
+![Alt Text](images/Top in-demand skills.png)
+
 ## Conclusion
 This project gives a quick overview of what's trending in the tech job market. It helps job seekers focus on the right skills and companies.
