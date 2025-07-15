@@ -18,11 +18,11 @@ This project analyzes job listings to uncover trends in hiring, top skills, and 
 - Job Listings Over Time
 
 ## Tech Stack
--Python
--Pandas
--Matplotlib
--Seaborn
--Plotly
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
 
 ## Plots
 ### Experience Level Distribution
